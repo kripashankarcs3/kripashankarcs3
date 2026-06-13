@@ -38,7 +38,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student at KIET Ghaziabad
 - 📱 Flutter App Developer
@@ -52,36 +52,30 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 <h2>🛠 Tech Stack</h2>
 
-<b>Languages</b>
-
-<br><br>
+<b>Languages</b><br>
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css">
 
 <br><br>
 
-<b>Frameworks / Libraries</b>
-
-<br><br>
+<b>Frameworks / Libraries</b><br>
 
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow">
 
 <br><br>
 
-<b>Tools / Platforms</b>
-
-<br><br>
+<b>Tools / Platforms</b><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux">
 
 </td>
 
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 <h2>🎯 Core Skills</h2>
 
@@ -92,14 +86,6 @@
 🔹 Full Stack Development <br>
 🔹 Database Management <br>
 🔹 Git & GitHub
-
-<br><br>
-
-<h2>🏆 Certifications</h2>
-
-✅ Red Hat Linux Fundamentals <br>
-✅ AWS Cloud Practitioner <br>
-✅ AI/ML Training
 
 </td>
 
@@ -184,7 +170,6 @@ Arduino • MQ135 • IoT
 <img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=kripashankarcs3&theme=tokyonight">
 
 </p>
-
 
 ---
 
