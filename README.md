@@ -1,136 +1,97 @@
 <h1 align="center">Hi, I'm Kripashankar Yadav 👋</h1>
 
-<h3 align="center">
-🚀 Passionate App Developer | AI/ML Enthusiast | Problem Solver
-</h3>
+<p align="center">
+  Passionate App Developer | AI/ML Enthusiast | Problem Solver
+</p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
+  <a href="https://github.com/kripashankarcs3">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=readme">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech CSE Student
-- 📱 Flutter App Developer
-- 🤖 Learning AI/ML and Deep Learning
-- 🌐 Exploring Full Stack Development
-- 🧠 Interested in DSA & Problem Solving
-- 🚀 Building real-world projects
+I'm a B.Tech CSE student who loves building impactful mobile apps & AI projects.  
+Currently exploring new technologies and open to internships.
 
 ---
 
-# 💻 Tech Stack
+<table>
+<tr>
 
-### Languages
+<td width="50%" valign="top">
+
+<h2>🛠️ Tech Stack</h2>
+
+<b>Languages</b>
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,dart,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css"/>
 </p>
 
 
-### Frameworks & Tools
+<b>Libraries / Frameworks</b>
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mongodb,firebase,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow"/>
 </p>
 
----
 
-# 🚀 Featured Projects
+<b>Tools / Platforms</b>
 
-### 🛡️ SheShield  
-AI + IoT based women safety system with emergency response and real-time monitoring.
-
-**Tech Used:** Flutter, Firebase, Python, TensorFlow, YOLO
-
----
-
-### 🤖 AI Desktop Assistant  
-A smart AI assistant that can understand screen content and respond to voice commands.
-
-**Tech Used:** Python, AI Models, Computer Vision
-
----
-
-### 🌫️ Air Quality Monitor  
-IoT-based air quality monitoring system using MQ135 sensor and Arduino.
-
-**Tech Used:** Arduino, IoT, Sensors
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kripashankarcs3&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripashankarcs3&layout=compact&theme=tokyonight"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mongodb,linux"/>
 </p>
 
----
+</td>
 
-# 🔥 GitHub Streak
 
-<p align="center">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kripashankarcs3&theme=tokyonight"/>
+<h2>🎯 Core Skills</h2>
 
-</p>
+🔹 Data Structures & Algorithms (C++)  
+<br>
+🔹 Object-Oriented Programming (Java)  
+<br>
+🔹 Flutter App Development  
+<br>
+🔹 AI/ML Model Development  
+<br>
+🔹 Full Stack Development  
+<br>
+🔹 Database Management (MongoDB, Firebase)  
+<br>
+🔹 Git & GitHub Version Control  
 
----
 
-# 🏆 GitHub Trophies
+<br><br>
 
-<p align="center">
+<h2>🏅 Certifications</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kripashankarcs3&theme=tokyonight"/>
+✅ Red Hat Linux Fundamentals  
+<br>
+✅ AWS Cloud Fundamentals  
+<br>
+✅ AI & Machine Learning Training  
 
-</p>
 
----
+</td>
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kripashankarcs3&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+</tr>
+</table>
 
 ---
-
-<div align="center">
-
-### 💙 Code. Create. Innovate. Repeat.
-
-</div>
