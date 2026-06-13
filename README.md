@@ -54,24 +54,28 @@
 
 <td width="60%" valign="top">
 
-<td width="60%" valign="top">
-
 <h2>🛠 Tech Stack</h2>
 
 <b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css&perline=7">
 
-<br>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css">
+
+<br><br>
 
 <b>Frameworks / Libraries</b><br>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow&perline=5">
 
-<br>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow">
+
+<br><br>
 
 <b>Tools / Platforms</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux&perline=6">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux">
 
 </td>
+
+
+<td width="40%" valign="top">
 
 <h2>🎯 Core Skills</h2>
 
