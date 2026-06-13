@@ -35,3 +35,31 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,jenkins" width="75%"><br>
 <b>Tools / Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux" width="88%">
+</td>
+<td width="45%" valign="top" style="padding-left: 20px; padding-top: 5px;">
+<h4>🎯 Core Skills</h4>
+<div style="line-height: 2.1; font-size: 14px;">
+🔹 Data Structures & Algorithms (C++)<br>
+🔹 Object Oriented Programming (Java)<br>
+🔹 Flutter App Development<br>
+🔹 IoT & Hardware Integration (Arduino, RPi)<br>
+🔹 Cloud & Containerization (Docker, K8s)<br>
+🔹 CI/CD & DevOps Automation<br>
+🔹 Git & GitHub
+</div>
+</td>
+</tr>
+</table>
+
+### 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kripashankarcs3&theme=github-compact" width="100%">
+</p>
+
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/kripashankar-yadav-508a19328/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
+<a href="mailto:kripashankar.cs3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
+</p>
+
+<p align="center"><b>💙 Code. Create. Innovate. Repeat.</b></p>
