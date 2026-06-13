@@ -51,31 +51,23 @@
 
 <table>
 <tr>
-
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 <h2>🛠 Tech Stack</h2>
 
 <b>Languages</b><br>
-
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css">
-
 <br><br>
 
 <b>Frameworks / Libraries</b><br>
-
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow">
-
 <br><br>
 
 <b>Tools / Platforms</b><br>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux">
 
 </td>
-
-
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 <h2>🎯 Core Skills</h2>
 
@@ -88,7 +80,6 @@
 🔹 Git & GitHub
 
 </td>
-
 </tr>
 </table>
 
@@ -97,9 +88,7 @@
 # 🚀 Projects
 
 <table>
-
 <tr>
-
 <td width="33%" valign="top">
 
 ### 🛡 SheShield
@@ -116,8 +105,6 @@ Flutter • Firebase • Python • YOLO
 </a>
 
 </td>
-
-
 <td width="33%" valign="top">
 
 ### 🤖 AI Assistant
@@ -134,8 +121,6 @@ Python • OpenCV • Voice AI
 </a>
 
 </td>
-
-
 <td width="33%" valign="top">
 
 ### 🌫 Air Quality Monitor
@@ -152,9 +137,7 @@ Arduino • MQ135 • IoT
 </a>
 
 </td>
-
 </tr>
-
 </table>
 
 ---
