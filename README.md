@@ -28,7 +28,7 @@
 <td width="55%" valign="top" style="padding-bottom: 10px;">
 <h4>🛠 Tech Stack</h4>
 <b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart,html,css" width="100%"><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,dart,html,css" width="100%"><br>
 <b>Frameworks / Libraries</b><br>
 <img src="https://skillicons.dev/icons?i=flutter,react,opencv" width="42%"><br>
 <b>Cloud & DevOps</b><br>
@@ -36,7 +36,7 @@
 <b>Tools / Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase,linux" width="88%">
 </td>
-<td width="45%" valign="top" style="padding-left: 20px; padding-top: 5px;">
+<td width="42%" valign="top" style="padding-left: 20px; padding-top: 5px;">
 <h4>🎯 Core Skills</h4>
 <div style="line-height: 2.1; font-size: 14px;">
 🔹 Data Structures & Algorithms (C++)<br>
